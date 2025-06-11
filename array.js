@@ -85,7 +85,7 @@
 
 
 //6-percorrer os itens
-let frutas = ['Banana', 'Maça', 'Pera', 'Uva', 'Laranja', 'kiwi']
-frutas.forEach(function (frutas) {
-    console.log(frutas)
-})
+// let frutas = ['Banana', 'Maça', 'Pera', 'Uva', 'Laranja', 'kiwi']
+// frutas.forEach(function (frutas) {
+//     console.log(frutas)
+// })
